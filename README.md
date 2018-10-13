@@ -2,25 +2,24 @@
 
 ## Pendahuluan
 
-Terimakasih atas undangannya dan semoga pertemuan ini membawakan dampak yang baik untuk kita semua, Amin. :smile:
+Terimakasih atas undangannya dan semoga pertemuan ini membawa dampak yang baik untuk kita semua, Amin. :smile:
 
-Pada pertemuan ini kita akan membahas pengenalan Node.js dan Express js. Anda akan membangun platform Anda sendiri untuk menulis, menampilkan, dan menyimpan todolist.
+Pada pertemuan ini kita akan membahas pengenalan Node.js dan Express. Anda akan membangun platform Anda sendiri, yaitu apikasi Todo List.
+
+Workshop ini dibagi menjadi beberapa langkah. Di akhir setiap segmen, Anda harus menemukan **link** untuk melanjutkan ke langkah berikutnya. Saya sarankan Anda mengikuti tutorial online, dan menulis kode di repositori terpisah.
+
+Anda akan melihat cuplikan kode di seluruh panduan. Sangat dilarang untuk **copy + paste** kode - Anda akan belajar lebih banyak jika Anda terbiasa mengetik kode-kode tersebut. Jika Anda ingin menguji kode-kode kecil sebelum menambahkannya ke proyek Anda, [repl.it](repl.it) sangat disarankan untuk dipakai.
+
+Sepanjang pembelajaran, saya telah mengantisipasi istilah-istilah yang mungkin terasa asing. Istilah-istilah ini dijelaskan di bagian Kata Kunci pada bawah setiap halaman. Anda juga akan menemukan `link` ke **cheatsheets** yang sangat membantu.
+
+Langkah-langkah mulai memperkenalkan Anda **bagaimana cara kerja Node dan Express**. Dalam dua langkah terakhir, ada beberapa tantangan kecil, yang membutuhkan pemecahan masalah. Tetapi Anda pasti sudah memiliki semua pengetahuan yang Anda butuhkan untuk menyelesaikannya!
+
+Jangan ragu untuk bertanya dengan saya, atau berkolaborasi dengan teman disebelah Anda kapanpun jika dibutuhkan.
 
 ## Kenapa?
 
-[Express](http://expressjs.com/) adalah salah satu framework yang paling banyak digunakan pada Node.js. Dengan menyederhanakan fitur dasar Node.js, membuatnya lebih mudah dan lebih cepat untuk membangun backend aplikasi Anda. Mempelajari Express akan menjadi landasan yang bagus untuk menjadi developer Node.js :sparkles:
+[Express](http://expressjs.com/) adalah salah satu framework yang paling banyak digunakan pada Node.js. Dengan menyederhanakan fitur dasar Node.js, membuatnya lebih mudah dan lebih cepat untuk membangun `backend` aplikasi Anda. Mempelajari Express akan menjadi landasan yang bagus untuk menjadi developer Node.js :sparkles:
 
-## Konsep Workshop
-
-Workshop ini dibagi menjadi beberapa langkah. Di akhir setiap segmen, Anda harus menemukan tautan untuk melanjutkan ke langkah berikutnya. Kami sarankan Anda mengikuti tutorial online, dan menulis kode Anda di repositori terpisah.
-
-Anda akan melihat cuplikan kode di seluruh panduan. Cobalah untuk menahan dorongan untuk menyalin dan menempel - Anda akan belajar lebih banyak jika Anda terbiasa mengetik hal-hal. Jika Anda ingin menguji kode-kode kecil sebelum menambahkannya ke proyek Anda, [repl.it](repl.it) adalah alat yang berguna.
-
-Sepanjang setiap langkah, kami telah jargon apa pun yang mungkin Anda kenal atau tidak Anda kenal. Istilah-istilah ini dijelaskan di bagian Kata Kunci di bagian bawah setiap halaman. Anda juga akan menemukan tautan ke cheatsheets kami di bawah Tautan Berguna.
-
-Langkah-langkah mulai memperkenalkan Anda bagaimana cara kerja Node dan Express. Dalam dua langkah terakhir, ada beberapa tantangan kecil, yang membutuhkan pemecahan masalah. Tetapi Anda pasti memiliki semua pengetahuan yang Anda butuhkan untuk menyelesaikannya!
-
-Jangan ragu untuk mengobrol dengan seorang mentor, atau berkolaborasi dengan tetangga Anda kapanpun Anda membutuhkannya.
 
 ## Sebelum memulai
 
@@ -28,18 +27,18 @@ Jangan ragu untuk mengobrol dengan seorang mentor, atau berkolaborasi dengan tet
 
 Anda perlu menginstal Node.js. Unduh dari situs web Node.js [disini](https://nodejs.org/en/).
 
-#### 2. Fork dan clone repo
+#### 2. Fork dan clone repository
 
 Fork repositori ini ke akun GitHub Anda sendiri. Instruksi untuk melakukan fork dapat dibaca [disini](https://help.github.com/articles/fork-a-repo/).
 
 Kemudian, clone repositori yang telah difork ke desktop Anda pada terminal. Instruksi untuk melakukan ini dapat dibaca [disini](https://help.github.com/articles/cloning-a-repository/), atau jalankan dengan **perintah** berikut.
 
-`$ git clone https://github.com/YOUR-USERNAME/express-workshop`
+`$ git clone https://github.com/YOU_USERNAME/workshop-express.git`
 
-### [Step 1 >>>>](https://github.com/node-girls/express-workshop/blob/master/step01.md)
+### [Langkah 1 >>>>](https://github.com/talkasrul/workshop-express/tutorial/step_01.md)
 
-## Useful Links
+## Link Bonus
 
-* [What is Node?](https://github.com/node-girls/what-is-node)
-* [Node cheatsheet](https://github.com/node-girls/cheatsheets/blob/master/node-cheatsheet.md)
-* [Command line cheatsheet](https://github.com/node-girls/cheatsheets/blob/master/command-line-cheatsheet.md)
+* [Apa itu Node js?](https://github.com/talkasrul/what-is-node)
+* [Cheatsheet Node js](https://github.com/talkasrul/cheatsheets/blob/master/node-cheatsheet.md)
+* [Cheatsheet Command Line](https://github.com/talkasrul/cheatsheets/blob/master/command-line-cheatsheet.md)
