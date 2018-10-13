@@ -35,7 +35,7 @@ Kemudian, clone repositori yang telah difork ke desktop Anda pada terminal. Inst
 
 `$ git clone https://github.com/YOU_USERNAME/workshop-express.git`
 
-### [Langkah 1 >>>>](https://github.com/talkasrul/workshop-express/tutorial/step_01.md)
+### [Langkah 1 >>>>](https://github.com/talkasrul/workshop-express/blob/master/learn/step_01.md)
 
 ## Link Bonus
 
