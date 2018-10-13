@@ -38,6 +38,6 @@ Express yang telah diinstall dapat dilihat pada `package.json`, akan terlihat se
 ## Kata kunci
 
 | Kata kunci | Penjelasan |
-|--------|:-------------------------------:|
+|--------|-------------------------------|
 | `npm install [package-name]` | Perintah terminal untuk menginstall package atau dependensi dari NPM. |
 | `--save` | Ketika ditambahkan `--save` pada perintrah `npm install`, maka package hanya akan diinstall pada proyek itu sendiri. |
