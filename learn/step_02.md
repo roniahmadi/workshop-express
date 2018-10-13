@@ -1,12 +1,12 @@
 # Step 2 - Install Express
 
-Before we write any code, you'll need to install the Express library. We're going to use the **[Node Package Manager (npm)](https://www.npmjs.com/)** to download it using the **`npm install`** command.
+Sebelum menulis kode, Anda harus menginstall librari Express. Kita menggynakan **[Node Package Manager (npm)](https://www.npmjs.com/)** untuk mendownloadnya dengan perintah **`npm install`**.
 
-NPM is the place to go to download other Node code written by other people.  There are thousands of open-source, 3rd-party Node modules (also known as "packages") by other people that you can download and use in your own projects. 
+NPM adalah tempat penyimpanan package yang dapat didownload secara bebas dan terdapat ribuan package yang akan mempermudah Anda dalam mengembangkan proyek Anda sendiri. :smile:
 
-As we install Express, we'll need to update the `package.json` to add Express as a dependency. We do this so that other people working on the project will know to install Express before running any of the code. This can be done by adding **`--save`** to the end of your command.
+Pada saat kita menginstall Express, maka `package.json` akan melakukan update dengan menambahkan dependensi express kedalam file `package.json`
 
-Run the following command in your terminal:
+Jalankan perintah berikut:
 
 `$ npm install express --save`
 
