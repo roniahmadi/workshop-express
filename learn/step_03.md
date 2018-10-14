@@ -8,9 +8,6 @@ Server adalah program komputer yang menerima permintaan dari program lain, *klie
 
 Mari kita ambil situs web misalnya. Situs web hanyalah kumpulan file HTML dan CSS, gambar, mungkin beberapa file javascript. Saat Anda mengetik alamat situs web di url browser Anda, Browser (klien) mengirim **permintaan** ke server yang sesuai dengan alamat itu. Browser meminta server untuk memberikannya file yang diperlukan untuk ditampilkan sesuai situs web dengan benar.
 
-
-![Server flow](https://files.gitter.im/heron2014/FiiK/server.png)
-
 ## 1. Membuat file `app.js`
 
 Sebelum kita melakukan apa pun, mari kita buat file baru bernama `app.js`. Di sinilah semua kode server akan dijalankan.
